@@ -1,0 +1,31 @@
+/*header style*/
+header {
+    text-align: center; 
+    padding: 20px;
+ }
+ /*navigation menu style*/
+ nav {
+    text-align: center;
+    word-spacing: 30px;
+    Padding: 10px;
+ }
+
+ a {
+    background-color: #5c36f4;
+  color: white;
+  border-radius: 90px;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+ }
+ input{
+    border-radius: 45px;
+    padding-right: 100px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+    color: white;
+
+ }
